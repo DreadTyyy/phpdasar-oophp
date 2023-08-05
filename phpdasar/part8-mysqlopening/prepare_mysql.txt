@@ -1,0 +1,8 @@
+database : phpdasar
+tabel : film
+
+id int primary key auto_increment
+tittle varchar(100)
+tayang date
+rating float
+gambar varchar(100)
